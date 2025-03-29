@@ -1,0 +1,39 @@
+.ManuItem_c{
+    gap: 5rem;
+}
+.menuItemLeft{
+    width: calc(67% - 5rem);
+    border-radius: 2rem;
+}
+.menuItemCheckBoxes{
+    background: #f2f2f2;
+    padding: 2rem;
+    border-radius: 1rem;
+    gap: 1rem;
+}
+.menuItemRight{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: calc(33% - 5rem);
+    gap: 1rem;
+}
+.menuItemTitle{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.menuItemTime{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.menuItemCheckBox input[type=checkbox] {
+    background: #000;
+    accent-color: var(--primaryOrange);
+}
+.menuItemTotal{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.menuTotalBtn{
+    font-size: 1.5rem;
+    font-weight: 600;
+}

@@ -1,0 +1,14 @@
+
+.nav_c{
+    padding: 1.5rem 8rem;
+    border-bottom: 3px solid #c7c7c7;
+}
+.navList{
+    gap: 3rem;
+}
+.navLink{
+    color: #333;
+}
+.navLink:hover{
+    color: var(--primaryOrange);
+}
